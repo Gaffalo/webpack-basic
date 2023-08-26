@@ -1,0 +1,11 @@
+$color--black: #000;
+$color--withe: #fff;
+
+body {
+    background-color: $color--black;
+    h1 {
+        color: $color--withe;
+        font-size: 40px;
+        display: flex;
+    }
+}
